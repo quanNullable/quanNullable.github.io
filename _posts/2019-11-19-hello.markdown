@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "Welcome to Quan‘s Blog"
+subtitle:   " \"Hello World, Hello Blog，Hello Github\""
+date:       2019-11-18 18:00:00
+author:     "权"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+HELLO EVERYONE!
